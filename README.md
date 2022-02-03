@@ -1,5 +1,7 @@
 # Musicl
 
+[Play the game here](https://jduss4.github.io/musicl/)
+
 Forked from [Byrdle](https://github.com/rbrignall/byrdle/), which was inspired by [Wordle](https://www.powerlanguage.co.uk/wordle/), written by Josh Wardle.
 
 This version is for my music friends who really wanted Wordle, but with more Elgar and cello 5-letter magic.
